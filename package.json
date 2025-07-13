@@ -1,0 +1,12 @@
+{
+  "name": "css-best-fonts-example",
+  "version": "1.0.0",
+  "description": "https://kinsta.com/es/blog/mejores-google-fonts/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
